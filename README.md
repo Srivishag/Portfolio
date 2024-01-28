@@ -1,6 +1,7 @@
 # Portfolio
 
-This is a dark-themed portfolio project created using HTML and CSS. The portfolio showcases my skills, projects, and provides an overview of my professional experience.
+A simple and elegant dark-themed portfolio project made with HTML and CSS. This portfolio is designed to provide information about you.
+
 
 ## Features
 
