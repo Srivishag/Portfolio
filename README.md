@@ -8,10 +8,6 @@ This is a dark-themed portfolio project created using HTML and CSS. The portfoli
 - **Responsive:** The portfolio is designed to be responsive across various devices.
 - **Contact Information:** Provide ways for visitors to reach out.
 
-## Preview
-
-Include a screenshot or GIF of your portfolio here.
-
 ## Usage
 
 1. Clone the repository to your local machine.
